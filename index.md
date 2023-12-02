@@ -13,3 +13,11 @@ I have completed bachelors in computer engineering.
 echo Hello, world!
 pause
 ```
+
+## Task list
+```
+-[] Include header
+-[] Inlcude image
+-[] Include clodeblocks
+-[] Adding tasklist
+```
